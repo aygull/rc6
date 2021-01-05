@@ -1,0 +1,15 @@
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6-final.csprojResolveAssemblyReference.cache
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\MainWindow.g.cs
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\App.g.cs
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6-final_MarkupCompile.cache
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6-final_MarkupCompile.lref
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\bin\Debug\rc6-final.exe.config
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\bin\Debug\rc6-final.exe
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\bin\Debug\rc6-final.pdb
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\MainWindow.baml
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6-final.g.resources
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6_final.Properties.Resources.resources
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6-final.csproj.GenerateResource.Cache
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6-final.csproj.CoreCompileInputs.cache
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6-final.exe
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\4 курс\крипта\rc6-final\rc6-final\obj\Debug\rc6-final.pdb
